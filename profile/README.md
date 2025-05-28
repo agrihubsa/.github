@@ -1,6 +1,7 @@
 # Hi there 👋
 Welcome to the Agrihub project.
-##🙋‍♀️ A short introduction
+
+## 🙋‍♀️ A short introduction
 <!--
 
 **Here are some ideas to get you started:**
